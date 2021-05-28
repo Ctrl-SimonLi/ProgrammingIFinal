@@ -11,6 +11,9 @@ Program Diagram:
 
 GUI mockup:
 
+-right slide: shows the concept of speed boosts
+-top slide/bottom slide: shows gameplay like regular pong.
+
 ![GUI](https://github.com/Ctrl-SimonLi/ProgrammingIFinal/blob/main/images/gui%20mockup.png)
 
 
