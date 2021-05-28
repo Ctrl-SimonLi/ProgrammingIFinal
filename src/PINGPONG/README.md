@@ -1,1 +1,1 @@
-- mac specific executable not available since you can only download one if you are on a mac. I do not own a mac.
+- mac specific executable not available since you can only export one if you are on a mac. I do not own a mac.
