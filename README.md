@@ -5,6 +5,8 @@ PIXELPONG:
 
 Pong style game with a twist. Moving speed boosts that allow you to spike the pong ball. Graphics and sound included!
 
+![Screenshot](https://github.com/Ctrl-SimonLi/ProgrammingIFinal/blob/main/images/Screenshot%202021-05-28%20141320.png)
+
 (Updated) Program Diagram:
 
 ![Diagram](https://github.com/Ctrl-SimonLi/ProgrammingIFinal/blob/main/images/FPdiagram.png)
